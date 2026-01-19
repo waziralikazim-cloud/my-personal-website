@@ -1,0 +1,51 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+@media(max-width:600px){
+    body{
+        font: size 14px;
+    }
+}
+@media(max-width: 600px){
+    body{
+        font: size 14px;
+    }
+}
+.box{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+marquee{
+    background-color: blue;
+    color: white;
+    overflow: hidden;
+}
+
+.logo{
+    width: 200px;
+    height: 200px;
+    border-radius: 100%;
+}
+body{
+    background: url(pic.html/my\ pic.jpg);
+}
+   
+
+.center-text{
+    text-align: center;
+    font-size: 30px;
+}
+a{
+    color: aqua;
+}
+
+
+h1{
+    text-align: center;
+    color: yellow;
+    font-size: 25px;
+}
+
+
